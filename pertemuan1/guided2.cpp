@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// struct
 struct Mahasiswa
 {
     char name[50];
@@ -9,8 +10,9 @@ struct Mahasiswa
 };
 int main()
 {
+    // menggunakan struct
     struct Mahasiswa mhs1, mhs2;
-
+    // mengisi nilai ke struct
     strcpy(mhs1.name, "Dian");
     strcpy(mhs1.address, "Mataram");
     mhs1.age = 22;
@@ -18,6 +20,7 @@ int main()
     strcpy(mhs2.address, "Surabaya");
     mhs2.age = 23;
 
+    // mencetak isi sturct
     printf("## Mahasiswa 1 ##\n");
     printf("Nama: %s\n", mhs1.name);
     printf("Alamat: %s\n", mhs1.address);
