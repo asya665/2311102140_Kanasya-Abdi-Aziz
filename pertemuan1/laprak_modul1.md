@@ -1,5 +1,6 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
 <p align="center">Kanasya Abdi Aziz - 2311102140</p>
+<p align="center">Kanasya Abdi Aziz - 2311102140</p>
 
 ## Dasar Teori
 
@@ -326,5 +327,4 @@ Tipe data dalam pemrograman sangat penting untuk mengorganisir dan mengelola dat
 
 
 ## Referensi
-Sianipar, R.H. (2012). Pemrograman C++: Dasar Pemrograman Berorientasi Objek (Edisi 1). Penerbit ANDI
-Tim Penulis. (2022). Algoritma dan Struktur Data. Penerbit Widina Bhakti Persada Bandung.
+[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.
