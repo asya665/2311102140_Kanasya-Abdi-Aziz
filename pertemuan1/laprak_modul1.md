@@ -289,8 +289,7 @@ Pada bagian main(), terdapat contoh penggunaan struct dan class. Untuk struct, t
 
 Program ini memberikan pengguna pemahaman tentang bagaimana menggunakan struct dan class untuk merepresentasikan data dan perilaku dalam program C++, serta cara mengakses atribut dan method dari objek-objek yang dibuat dari struct dan class tersebut.
 
-### 3. [Buat dan jelaskan program menggunakan fungsi map dan jelaskan perbedaan dari
-array dengan map]
+### 3. [Buat dan jelaskan program menggunakan fungsi map dan jelaskan perbedaan dari array dengan map]
 
 ```C++
 #include <iostream>
