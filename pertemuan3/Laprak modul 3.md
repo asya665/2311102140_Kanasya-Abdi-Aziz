@@ -1022,8 +1022,8 @@ int main() {
 }
 ```
 #### Output:
-![Screenshot Output Unguided 2](Output-Unguided-2_Kanasya.png)
-![Screenshot Output Unguided 2](Output-Unguided-2_Kanasya(2).png)
+![Screenshot Output Unguided 2](Output-Unguided-2_Kanasya.png.png)
+![Screenshot Output Unguided 2](Output-Unguided-2_Kanasya(2).png.png)
 
 Program yang diberikan adalah sebuah simulasi sederhana dari sebuah toko skincare menggunakan struktur data double linked list. Program ini memungkinkan pengguna untuk melakukan berbagai operasi seperti menambah, menghapus, memperbarui, menampilkan, serta menyisipkan dan menghapus data pada posisi tertentu dalam daftar produk skincare yang tersedia. Setiap operasi dapat diakses melalui menu yang disediakan dalam sebuah loop utama. Ini adalah contoh implementasi dasar dari struktur data double linked list untuk aplikasi pengelolaan data produk dalam sebuah toko.
 
