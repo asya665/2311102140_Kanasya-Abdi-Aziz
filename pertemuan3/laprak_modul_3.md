@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Array</h1>
+# <h1 align="center">Laporan Praktikum Modul Single and Double Linked List</h1>
 <p align="center">Kanasya Abdi Aziz - 2311102140</p>
 
 ## Dasar Teori
