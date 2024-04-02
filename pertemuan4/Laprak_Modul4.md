@@ -1615,34 +1615,34 @@ int main() {
 #### Output:
 
 #### Tambahkan data berikut diantara Farrel dan Denis: Wati 2330004
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_1.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_1.png)
 
 #### Hapus data Denis
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_2.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_2.png)
 
 #### Tambahkan data berikut di awal: Owi 2330000
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_3.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_3.png)
 
 #### Tambahkan data berikut di akhir: David 23300100
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_4.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_4.png)
 
 #### Ubah data Udin menjadi data berikut: Idin 23300045
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_5.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_5.png)
 
 #### Ubah data terkahir menjadi berikut: Lucy 23300101
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_6.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_6.png)
 
 #### Hapus data awal
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_7.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_7.png)
 
 #### Ubah data awal menjadi berikut: Bagas 2330002
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_8.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_8.png)
 
 #### Hapus data akhir
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_9.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_9.png)
 
 #### Tampilkan seluruh data
-![Screenshot Output Unguided 3](Output-Unguided-2_Kanasya_10.png)
+![Screenshot Output Unguided 3](Output-Unguided-3_Kanasya_10.png)
 
 
 Pada perintah unguided3, masih menggunakan kode yang sama dengan unguided 1 dan 2, namun ditambahkan beberapa menu baru. Menu-menu yang ditambahkan antara lain untuk menambahkan data di tengah antara Farrel dan Denis, menghapus data Denis, menambahkan data Owi di bawah data yang sudah ada, mengubah data tengah menjadi Idin dari nama Udin, mengubah data terakhir menjadi Lucy, menghapus data awal, mengubah data awal menjadi Bagas, menghapus data terakhir, dan menampilkan seluruh data menggunakan menu tampilkan. Untuk menjalankan perintah-perintah tersebut, digunakan linked list untuk menyimpan data mahasiswa. Linked list adalah struktur data yang terdiri dari simpul-simpul yang terhubung satu sama lain secara berurutan, dimana setiap simpul memiliki dua bagian utama: data (nama dan NIM mahasiswa) dan pointer yang menunjuk ke simpul berikutnya.
