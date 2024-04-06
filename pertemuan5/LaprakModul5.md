@@ -3,14 +3,6 @@
 
 ## Dasar Teori
 
-Linked list dapat dibagi menjadi dua jenis, yaitu linked list circular dan non-circular.
-
-1. Linked list non-circular
-
-Pada linked list non-circular, node terakhir tidak menunjuk pada simpul pertama. Artinya, linked list ini memiliki simpul terakhir yang menunjuk ke null atau tidak menunjuk ke simpul mana pun. Dalam linked list non-circular, traversal atau penelusuran dari awal hingga akhir dapat dilakukan dengan mudah dengan mengikuti alamat setiap node.
-
-2. Linked list circular
-
 Tabel hash, juga dikenal sebagai peta hash, adalah struktur data yang digunakan untuk menyimpan catatan, di mana setiap data diakses menggunakan kunci yang dihitung oleh fungsi hash. Fungsi hash adalah algoritme yang digunakan untuk membuat indeks unik, yang kemudian digunakan untuk menemukan data yang cocok dengan kunci. Dalam tabel hash, setiap elemen disimpan dalam "ember" atau "slot" yang sesuai dengan indeks yang dikembalikan oleh fungsi hash.
 
 Keuntungan menggunakan tabel hash adalah waktu akses yang cepat dan efisien, karena penyajian data tidak memerlukan proses iteratif atau pencarian linier ke seluruh kumpulan data. Akan tetapi penggunaan tabel hash membutuhkan alokasi memori yang cukup besar dan juga memerlukan perhatian khusus dalam merancang dan mengimplementasikan fungsi hash yang baik untuk meminimalisir kemungkinan terjadinya collision (keduanya menggunakan indeks yang sama). Tabel hash sering digunakan dalam implementasi berbagai aplikasi seperti sistem basis data, pencarian kata kunci di mesin pencari, manajemen cache, dan banyak lainnya.
