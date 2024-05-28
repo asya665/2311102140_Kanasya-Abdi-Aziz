@@ -32,7 +32,7 @@ Perbedaan antara sequential search dan binary search:
 
 ### 1. [Guided 1]
 
-```C++
+ C++
 #include <iostream>
 using namespace std;
 
